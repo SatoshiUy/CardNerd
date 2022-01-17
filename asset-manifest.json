@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31d977d2.css",
+    "main.js": "/static/js/main.79608836.js",
+    "static/media/isocard.svg": "/static/media/isocard.8162d70aafa5b3c9dd11776960c17d02.svg",
+    "index.html": "/index.html",
+    "static/media/checkpoint.svg": "/static/media/checkpoint.e6fb772578b79e07d821b8839c859a38.svg",
+    "main.31d977d2.css.map": "/static/css/main.31d977d2.css.map",
+    "main.79608836.js.map": "/static/js/main.79608836.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d977d2.css",
+    "static/js/main.79608836.js"
+  ]
+}
