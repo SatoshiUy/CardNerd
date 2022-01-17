@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CardNerd/static/css/main.31d977d2.css",
+    "main.js": "/CardNerd/static/js/main.83df06e3.js",
+    "static/media/isocard.svg": "/CardNerd/static/media/isocard.8162d70aafa5b3c9dd11776960c17d02.svg",
+    "index.html": "/CardNerd/index.html",
+    "static/media/checkpoint.svg": "/CardNerd/static/media/checkpoint.e6fb772578b79e07d821b8839c859a38.svg",
+    "main.31d977d2.css.map": "/CardNerd/static/css/main.31d977d2.css.map",
+    "main.83df06e3.js.map": "/CardNerd/static/js/main.83df06e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d977d2.css",
+    "static/js/main.83df06e3.js"
+  ]
+}
